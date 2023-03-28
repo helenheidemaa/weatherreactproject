@@ -13,8 +13,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Open Source coded by Helen Heidemaa
+          Open-Source 
         </a>
+        <p>ode by Helen Heidemaa</p>c
       </header>
     </div>
   );
