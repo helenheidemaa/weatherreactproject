@@ -1,5 +1,3 @@
-import react from "react"
-import logo from './logo.svg';
 import './App.css';
 import Weather from "./Weather.js";
 
@@ -11,7 +9,7 @@ function App() {
     <Weather />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/helenheidemaa/weatherreactproject"
           target="_blank"
           rel="noopener noreferrer"
         >
